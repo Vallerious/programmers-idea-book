@@ -4,9 +4,9 @@ List of projects from [The Programmers Idea Book](http://www.coderslexicon.com/d
 ##Numbers
 - [ ] Add/Subtract/Multiply/DivideFractions
 - [ ] Alarm Clock
-- [x] Binary to Decimal and Back Converter
+- [ ] Binary to Decimal and Back Converter
 - [ ] Calculator
-- [x] Change Return Program
+- [ ] Change Return Program
 - [ ] Credit Card Validator
 - [ ] Decimal to Roman Numerals
 - [ ] Dijkstra’s Algorithm
@@ -26,23 +26,23 @@ List of projects from [The Programmers Idea Book](http://www.coderslexicon.com/d
 
 ##Text
 - [ ] CD Key Generator
-- [x] Check if Palindrome
+- [ ] Check if Palindrome
 - [ ] Code Skeleton Creator
-- [x] Count Vowels
+- [ ] Count Vowels
 - [ ] Count Words in a String
 - [ ] Font Viewer and Tester (Online or Not)
 - [ ] Fortune Teller (Horoscope)
 - [ ] Guestbook / Journal
 - [ ] Morse Code Maker
 - [ ] News Ticker and Game Scores
-- [x] Pig Latin
+- [ ] Pig Latin
 - [ ] Post it Notes Program
 - [ ] Quote Tracker (Market Symbols etc)
 - [ ] Random Gift Suggestions
 - [ ] RSS Feed Creator
 - [ ] Recreate Grep (Pattern Matching)
 - [ ] Regex Query Tool
-- [x] Reverse a String
+- [ ] Reverse a String
 - [ ] Text Editor
 - [ ] Text to HTML Generator
 - [ ] Vigenere / Vernam / Caesar Ciphers
