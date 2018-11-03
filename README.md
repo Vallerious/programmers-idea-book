@@ -72,7 +72,7 @@ List of projects from [The Programmers Idea Book](http://www.coderslexicon.com/d
 - [ ] Zip / Postal Code Lookup
 
 ##Classes
-- [ ] Airline / Hotel Reservation System
+- [x] Airline / Hotel Reservation System
 - [ ] Bank Account Manager
 - [ ] Chart Making Class / API
 - [ ] Class to Handle Large Numbers
