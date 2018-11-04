@@ -73,7 +73,7 @@ List of projects from [The Programmers Idea Book](http://www.coderslexicon.com/d
 
 ##Classes
 - [x] Airline / Hotel Reservation System
-- [ ] Bank Account Manager
+- [x] Bank Account Manager
 - [ ] Chart Making Class / API
 - [ ] Class to Handle Large Numbers
 - [ ] Company dashboard
